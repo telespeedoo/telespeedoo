@@ -292,3 +292,11 @@ now = os.time()
 math.randomseed(now)
 started = false
 sudo_user={145932016}
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g   libjansson-dev libpython-dev expat libexpat1-dev
+sudo apt-get install redis-server
+git clone telespeedoo adress
+cd your gitub koding_user_username
+./launch.sh installin
+./launch.sh 09118229514
